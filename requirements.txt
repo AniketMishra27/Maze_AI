@@ -3,4 +3,4 @@ numpy
 matplotlib
 seaborn
 pandas
-mazelib @ git+https://github.com/john-science/mazelib.git
+git+https://github.com/john-science/mazelib.git
